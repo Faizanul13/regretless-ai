@@ -1,6 +1,8 @@
 # RegretLess AI – The Courage Engine
 
-AI-powered behavioral activation platform introducing Courage Score™ to reduce avoidance and measure action attempts.
+## Summary
+
+RegretLess AI is an AI-powered behavioral activation platform designed to reduce avoidance and increase courageous action. The system analyzes language patterns to detect hesitation, suggests small reversible micro-actions, and introduces a measurable Courage Score™ that rewards action attempts rather than outcomes. The goal is to reduce long-term regret by encouraging intentional decision-making.
 
 ---
 
@@ -68,7 +70,7 @@ The system rewards attempts — not outcomes.
 
 ---
 
-## ⚙️ AI Architecture (Conceptual)
+## ⚙️ How AI Is Used
 
 - Natural Language Processing (NLP)
 - Fear-pattern detection
@@ -111,5 +113,5 @@ RegretLess AI will measure action growth.
 ---
 
 Founder: Faizanul Hasan  
-Status: Early-stage AI behavioral research concept
+Status: Early-stage AI behavioral research concept  
 License: MIT
